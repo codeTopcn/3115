@@ -16,7 +16,7 @@ http://code99.top/3115.html
 
  
 
-用户，管理员角色等(具体看下演示视频提供)。
+基于SpringBoot+MySQL+SSM+Vue.js的体质测试系统,用户，管理员角色等(具体看下演示视频提供)。
 
  
 
